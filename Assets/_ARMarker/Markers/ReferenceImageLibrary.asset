@@ -18,12 +18,12 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4635741332808656079
-      m_GuidHigh: 13984011863404536204
+      m_GuidLow: 5270348439118833700
+      m_GuidHigh: 12631327005798457790
     m_SerializedTextureGuid:
-      m_GuidLow: 10935960758103965435
-      m_GuidHigh: 15994318053438090411
-    m_Size: {x: 0.0508, y: 0.0508}
-    m_SpecifySize: 0
-    m_Name: fuse
+      m_GuidLow: 11368354167933113125
+      m_GuidHigh: 17364748156647118538
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: P1010501
     m_Texture: {fileID: 0}
